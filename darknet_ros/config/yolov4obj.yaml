@@ -10,3 +10,4 @@ yolo_model:
     names:
       - person
       - pier
+      - vehicle
